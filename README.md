@@ -11,7 +11,7 @@ https://graph-xplore-boqouxdeoa-nw.a.run.app
 ### Overview
 
 
-This tool currently relies on users to import data from a given social network into it, through copy and paste operations. The data must be in csv format.
+This tool currently relies on users to import data from a given social network into it, through copy and paste operations. The data must be in csv format. Note that if there are, for example, no accounts following a given account, the field can be left blank.
 
 
 ### User Input
