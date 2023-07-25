@@ -6,3 +6,12 @@ Graph Xplore is an analytics engine that allows businesses to find potential cus
 
 https://graph-xplore-boqouxdeoa-nw.a.run.app
 
+## Instructions
+
+![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/main_entry_example.jpeg)
+
+![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/main_information_example.jpeg)
+
+![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/selection_example.jpeg)
+
+![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/results_example.jpeg)
