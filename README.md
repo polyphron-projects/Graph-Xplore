@@ -8,6 +8,14 @@ https://graph-xplore-boqouxdeoa-nw.a.run.app
 
 ## Instructions
 
+### Overview
+
+
+
+### User Input
+
+The main page can be used to type in 
+
 ![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/main_entry_example.jpeg)
 
 ![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/main_information_example.jpeg)
