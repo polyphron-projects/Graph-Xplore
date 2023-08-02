@@ -11,7 +11,7 @@ Graph Xplore is an analytics engine that allows businesses to find potential cus
 ### Overview
 
 
-This tool currently relies on users to import data from a given social network into it, through copy and paste operations. The data must be in csv format. Note that if there are, for example, no accounts following a given account, the field can be left blank.
+This tool currently relies on users to import data from a given social network into it, through copy and paste operations, or the bulk upload from a csv file. The data must be in csv format. Note that if there are, for example, no accounts following a given account, the field can be left blank.
 
 
 ### User Input
@@ -20,6 +20,12 @@ The main page can be used to enter the comma-separated-value list of accounts th
 
 
 ![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/main_entry_example.jpeg)
+
+
+A bulk upload, through a csv file, is also possible, using the "Upload Account Data (csv format)" button. A sample file for this upload is available in the "sample_file" folder.
+
+
+![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/upload_entry_example.jpeg)
 
 
 ### Information Retrieval
@@ -44,4 +50,4 @@ You can then click "Analyze" and see the results on the next page.
 ![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/results_example.jpeg)
 
 
-In this simple example, we are analyzing the account named test3. It is directly following test1 and test2 (red), and accounts test4 and test5 are shown as being unfollowed accounts. In the Recommended Accounts section, the recommended accounts that we should follow are shown. This list can easily be copied and pasted.
+In this simple example, we are analyzing the account named account1. It is directly following test1 and test2 (red), and accounts test4 and test5 are shown as being unfollowed accounts. In the Recommended Accounts section, the recommended accounts that we should follow are shown. This list can easily be copied and pasted.
