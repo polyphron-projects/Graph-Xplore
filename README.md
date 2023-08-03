@@ -38,7 +38,7 @@ You can select an account from a given graph, and click the "Get Account Details
 
 ### Graph Analytics
 
-On the below page, you can specify the graph and account that you wish to analyze (this should be the account most similar to your own). You can also select whether the analysis should be based on follower or following accounts, and which type of graph should be used to visually represent the analysis.
+On the below page, you can specify the graph you wish to analyze (this should consist entirely of accounts similar to your own). You can also select whether the analysis should be based on follower or following accounts, and which type of graph should be used to visually represent the analysis.
 
 
 ![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/selection_example.jpeg)
