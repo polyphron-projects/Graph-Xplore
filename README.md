@@ -50,4 +50,4 @@ You can then click "Analyze" and see the results on the next page.
 ![alt text](https://github.com/polyphron-projects/Graph-Xplore/blob/main/img/results_example.jpeg)
 
 
-In this simple example, we are analyzing the account named test3, from the graph: "graph". It is directly following test1 and test2 (red), and accounts test4 and test5 are shown as being unfollowed accounts. In the Recommended Accounts section, the recommended accounts that we should follow are shown. This list can easily be copied and pasted.
+In this simple example, we are analyzing the graph: "graph". It is directly following test1 and test2 (red), and accounts test4 and test5 are shown as being unfollowed accounts. In the Recommended Accounts section, the recommended accounts that we should follow are shown. This list can easily be copied and pasted.
